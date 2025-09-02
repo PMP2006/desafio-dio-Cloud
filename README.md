@@ -39,6 +39,6 @@ Assinatura do ResponsÃ¡vel pelo Projeto:
 
 [Nome do ResponsÃ¡vel pelo Projeto]
 
+<br>
 
-
-Orientado por Felipe Aguiat - 
+Orientado por Felipe Aguiat - https://github.com/felipeAguiarCode
