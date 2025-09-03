@@ -46,4 +46,4 @@ Pedro Macedo Paula
 
 <br>
 
-Orientado por [Felipe Aguiar](https://github.com/felipeAguiarCode) e Willyan Guimarães
+Orientado por [Felipe Aguiar](https://github.com/felipeAguiarCode) e [Willyan Guimarães](https://github.com/willyancaetano)
